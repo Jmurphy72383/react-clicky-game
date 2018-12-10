@@ -1,0 +1,16 @@
+.card-div {
+    width: 225px;
+    height: 225px;
+    background-color: red;
+    border: 5px solid yellow;
+    margin: 5px;
+}
+
+img {
+    width: 225px;
+    height: 225px;
+}
+
+.card-div:hover {
+    transform: scale(1.05);
+}
